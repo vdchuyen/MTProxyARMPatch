@@ -1,5 +1,5 @@
 # MTProxyARMPatch
-Patch for running MTProxy on ARM (including MIPS)
+Patch for running MTProxy on ARM (including MIPS) and Ampere (on Oracle Cloud)
 
 
 1) Start installation - clone [this](https://github.com/TelegramMessenger/MTProxy)
